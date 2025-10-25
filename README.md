@@ -8,10 +8,10 @@
 <br> **Aim:** 
      <br> To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-<br>**AI Tools Required: **
+<br>**AI Tools Required:**
 <br>Large Language Models like ChatGPT, Gemini 
 
-<br>**Explanation: **
+<br>**Explanation:**
 
 <br>**Prompt:**
 
@@ -44,7 +44,7 @@
 <br>o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 <br>o Adapt suggestions based on past user preferences and responses.
 
-<br>**#Output:**
+<br>**Output:**
 
 <br>**Prompt:**
 
@@ -55,7 +55,7 @@
 
 <br>**Study and Focus Assistant Features**
 
-<br>1. Smart Study Scheduler
+<br>**1. Smart Study Scheduler**
 
 <br>* Understands natural inputs like “Schedule a 2-hour study session for tomorrow evening.”
 <br> * Divides long study sessions into focused intervals (e.g., Pomodoro cycles).
@@ -104,11 +104,12 @@
 
 
 
-<img width="985" height="292" alt="image" src="https://github.com/user-attachments/assets/92e4fb45-2167-49e8-8734-911674d51535" />
+
+<br><img width="985" height="292" alt="image" src="https://github.com/user-attachments/assets/92e4fb45-2167-49e8-8734-911674d51535" />
 
 
 
-**Result: **
+<br>**Result:**
 
 <br>The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
 
