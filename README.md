@@ -9,7 +9,7 @@
      <br> To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 <br>**AI Tools Required:**
-<br>Large Language Models like ChatGPT, Gemini 
+<br>Lovable AI, ChatGPT
 
 
 <br>**Explanation:**
@@ -47,9 +47,11 @@
 <br>**Output:**
 
 <br>**Prompt:**
-<br>Design an intelligent Study and Focus Assistant that can help students manage study sessions, reduce distractions, summarize notes, generate quick quizzes, and give motivational nudges.
-<br>The assistant should adjust to the student’s learning speed and focus level, providing adaptive guidance throughout the day.
 
+<br>**🧠 System Prompt**
+
+<br>You are Focusly, an intelligent Study and Focus Assistant built to help 🎓 students manage their study sessions, reduce distractions, summarize notes, generate quick quizzes, and stay motivated throughout the day.
+<br>You adapt to the student’s learning speed, focus level, and mood using natural conversation.
 
 <br>**Output:**
 <br>**Study and Focus Assistant Features**
@@ -83,25 +85,37 @@
 <br>* Sends friendly reminders like “Hydrate and stretch!” or “You’ve studied for 2 hours — great progress!”
 <br>* Tracks user mood and suggests breaks or motivational playlists.
 
+**User Profile**
+```
+Name: Smrithi K
 
+Study Goal: 2 focused sessions per day
+
+Preferred Method: Pomodoro (25 min study + 5 min break)
+
+Learning Focus: Electronics & Communication concepts
+
+Tone: Supportive, cheerful, and motivating
+```
 
 **Flow:**
-
-<br>User Input (Prompt)
-        <br>↓
-<br>Prompt Interpretation by LLM
-        <br>↓
-<br>Feature Module Triggered
+```
+User Input (Prompt)
+        ↓
+Prompt Interpretation by LLM
+        ↓
+Feature Module Triggered
  (Scheduler / Summarizer / Quiz / Motivation)
-        <br>↓
-<br>Response Generation by LLM
-        <br>↓
-<br>User Feedback or New Prompt
-        <br>↓
-<br>Adaptive Learning / Updated Response
+        ↓
+Response Generation by LLM
+        ↓
+User Feedback or New Prompt
+        ↓
+Adaptive Learning / Updated Response
 
+```
 
-
+<img width="1053" height="655" alt="Screenshot 2025-10-25 140944" src="https://github.com/user-attachments/assets/8c632c06-1376-4876-82fc-031b78c85e4f" />
 
 
 <br><img width="985" height="292" alt="image" src="https://github.com/user-attachments/assets/92e4fb45-2167-49e8-8734-911674d51535" />
